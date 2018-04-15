@@ -1,4 +1,4 @@
-App = React.createClass({
+var App = React.createClass({
   getInitialState() {
     return {
       loading: false,
